@@ -1,10 +1,11 @@
 # tictactoe
 
-FIXME: Write a one-line description of your library/project.
+TicTacToe game in clojuresrcipt
 
 ## Overview
 
-FIXME: Write a paragraph about the library/project and highlight its goals.
+From the tutorial http://timothypratley.blogspot.ch/2015/11/curious-about-clojurescript-but-not.html
+with some added "intelligence" to the computer moves
 
 ## Setup
 
